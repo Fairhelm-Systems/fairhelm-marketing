@@ -53,7 +53,7 @@ See [the design system guide](packages/ui/README.md), [architecture and SEO deci
 
 ## Public source mirror
 
-The public source mirror is `https://github.com/fairhelmsystems/fairhelm-marketing`. It receives a fresh, signed source snapshot after successful main-branch validation. Publication excludes private Git history, deployment tooling, AWS account configuration, release records and local files. Public apps, shared packages, content checks and the generic redirect handler remain buildable together.
+The public source mirror is `https://github.com/Fairhelm-Systems/fairhelm-marketing`. It receives a fresh, signed source snapshot after successful main-branch validation. Publication excludes private Git history, deployment tooling, AWS account configuration, release records and local files. Public apps, shared packages, content checks and the generic redirect handler remain buildable together.
 
 `scripts/export-public.ts` defines the publication allowlist, removes deployment commands from the public manifest and regenerates its Bun lockfile. The mirror workflow scans exactly that snapshot with a pinned secret scanner before writing through a deploy key scoped to the mirror repository. Older validation runs cannot overwrite a newer main revision. Production credentials and the mirror key stay in private repository settings.
 

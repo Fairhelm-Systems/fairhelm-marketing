@@ -273,7 +273,7 @@ export const socialLinks = [
  * including the checks that stop this site from overclaiming.
  */
 export const siteSource = {
-  repoUrl: "https://github.com/fairhelmsystems/fairhelm-marketing",
+  repoUrl: "https://github.com/Fairhelm-Systems/fairhelm-marketing",
   label: "This site is open source",
   tooltip:
     "Read the code behind every page, including the claims register and the build checks that keep this site honest. Issues and pull requests welcome.",
