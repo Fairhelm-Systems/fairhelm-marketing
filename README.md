@@ -111,3 +111,5 @@ can set `NEXT_PUBLIC_FAIRHELM_CONTACT_ENABLED=true` to target the fixed
 Function, Front Door route, authentication, mail and both inquiry paths pass
 end-to-end acceptance. Only `true`, `false` or unset are accepted. Changing the
 variable affects future builds; it does not alter an already deployed release.
+
+SquareCampus Terms and Privacy are authored in [`apps/legal/src/content/squarecampus-legal.json`](apps/legal/src/content/squarecampus-legal.json). The legal app generates the [public mobile reading feed](https://legal.fairhelmsystems.com/squarecampus/legal-content.json) during dev and build. Substantive changes need legal sign-off; the reviewed Terms Markdown baseline in [`apps/squarecampus/scripts/legal-copy-baselines.ts`](apps/squarecampus/scripts/legal-copy-baselines.ts) must only be updated after review.

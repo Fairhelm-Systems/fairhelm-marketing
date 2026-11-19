@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack --port 3003",
-    "build": "next build && bun scripts/markdown-alternates.ts && bun scripts/check-build.ts",
+    "dev": "python3 scripts/legal-content.py && next dev --turbopack --port 3003",
+    "build": "python3 scripts/legal-content.py && next build && bun scripts/markdown-alternates.ts && bun scripts/check-build.ts",
     "check-types": "tsc --noEmit",
     "lint": "biome lint src scripts"
   },

@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "documents": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How SquareCampus gathers, safeguards, and shares personal data for schools and colleges.",
+      "canonicalUrl": "https://legal.fairhelmsystems.com/squarecampus/privacy-policy/",
+      "sections": [
+        {
+          "id": "company-controller",
+          "title": "1. Company & Data Fiduciary",
+          "html": "<p>SquareCampus™ is a trademark (registration pending) of Fairhelm Systems (OPC) Private Limited. All services are provided by Fairhelm Systems (OPC) Private Limited, unless otherwise stated in a written agreement or order form.</p><p>References to \"SquareCampus\" in this Policy mean Fairhelm Systems (OPC) Private Limited.</p><address class=\"not-italic rounded-[1.2rem] border border-(--line) bg-(--surface) p-4 text-sm leading-6\"><span class=\"block font-medium text-foreground\">FAIRHELM SYSTEMS (OPC) PRIVATE LIMITED</span><span class=\"mt-1 block\">Registered office: No. 33, 4th Floor, 1st Main, Road 3, Ganganagar, R T Nagar, Bangalore North, Bangalore – 560032, Karnataka, India</span><span class=\"mt-1 block\">CIN: <span class=\"font-mono text-[0.8rem]\">U62099KA2026OPC225579</span> · Incorporated in India on 5 August 2026 under the Companies Act, 2013 · One Person Company</span><span class=\"mt-1 block\">GSTIN: <span class=\"font-mono text-[0.8rem]\">29AAHCF1819L1ZA</span> · Registered under the Goods and Services Tax, Karnataka</span><span class=\"mt-1 block\">Email: <a href=\"mailto:contact@squarecampus.com\" class=\"hover:text-foreground\">contact@squarecampus.com</a></span></address><p>This Policy uses the vocabulary of the Digital Personal Data Protection Act, 2023 (the \"DPDP Act\"): a <strong>Data Principal</strong> is the individual the personal data is about, a <strong>Data Fiduciary</strong> decides why and how it is processed, and a <strong>Data Processor</strong> processes it on a Fiduciary's instructions.</p><p>Fairhelm Systems (OPC) Private Limited is the Data Fiduciary for its own business operations and the SquareCampus website. When processing personal data on behalf of an Institution within the Service, the Institution is the Data Fiduciary and Fairhelm Systems (OPC) Private Limited acts as its Data Processor, as described in the Data Processing Addendum. In that case the Institution's own notice governs its relationship with students, guardians and staff.</p><p>SquareCampus service data is hosted and processed in India. We do not transfer or store customer data outside India.</p><p>We pledge to keep data within the borders of India, no excuses or compromises.</p>",
+          "navigationLabel": "Company & Data Fiduciary"
+        },
+        {
+          "id": "information-collected",
+          "title": "2. Information We Collect",
+          "html": "<div class=\"space-y-4\"><div><p class=\"text-sm font-semibold text-foreground\">2.1 Institution Information</p><p>We may collect or receive details about the Institution, including:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Institution name, type, and registered address;</li><li>Administrative contacts, emails, and phone numbers;</li><li>Billing preferences and subscription configurations;</li><li>Modules, features, and integrations selected by the Institution.</li></ul></div><div><p class=\"text-sm font-semibold text-foreground\">2.2 User Information</p><p>We receive, process, or store data about individual users, such as:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Names, contact details, roles (student, parent, educator, staff);</li><li>Authentication records and hashed login credentials;</li><li>Academic data, attendance, assignments, assessments, and grades;</li><li>Messages, notifications, and collaboration history generated inside the Service.</li></ul></div><div><p class=\"text-sm font-semibold text-foreground\">2.3 Technical and Usage Data</p><p>Automatic information we collect includes:</p><ul class=\"list-disc space-y-2 pl-5\"><li>IP address, device, and browser metadata;</li><li>Pages, modules, and features accessed with timestamps;</li><li>Diagnostic logs, error events, and performance telemetry;</li><li>Cookies or tokens used for authentication and session management.</li></ul></div><div><p class=\"text-sm font-semibold text-foreground\">2.4 Sensitive Data and Minors</p><p>SquareCampus may process information about minors (students) and data that may be considered sensitive (photographs, health records, disciplinary notes) strictly under the Institution's instructions.</p><p>Institutions are responsible for obtaining any necessary parental or guardian permissions before submitting such data through the Service.</p></div></div>",
+          "navigationLabel": "Information We Collect"
+        },
+        {
+          "id": "use-of-information",
+          "title": "3. How We Use the Information",
+          "html": "<p>We use the collected data to:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Provide, operate, and improve the SquareCampus Service;</li><li>Authenticate users, maintain sessions, and secure accounts;</li><li>Generate attendances, reports, notifications, and academic insights;</li><li>Facilitate communication between teachers, students, and parents;</li><li>Analyse usage patterns for reliability, performance, and product planning;</li><li>Comply with legal obligations and respond to lawful requests;</li><li>Enforce our Terms of Service and detect abuse.</li></ul><p>We do not sell personal data to advertisers or unrelated third parties.</p>",
+          "navigationLabel": "How We Use the Information"
+        },
+        {
+          "id": "legal-basis",
+          "title": "4. Legal Basis for Processing",
+          "html": "<p>Our processing is typically governed by performance of an agreement with the Institution, consent where appropriate, compliance with legal duties, or legitimate interests that do not override individual rights.</p>",
+          "navigationLabel": "Legal Basis for Processing"
+        },
+        {
+          "id": "data-sharing",
+          "title": "5. Data Sharing and Transfers",
+          "html": "<p>We may share data with:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Authorised Institution staff as allowed by internal controls;</li><li>Third-party providers acting on our behalf (cloud, messaging, analytics);</li><li>Professional advisers bound by confidentiality obligations;</li><li>Government or law enforcement authorities when required by law.</li></ul><p>We may use sub-processors to deliver the Service. A current list of sub-processors is available upon request.</p>",
+          "navigationLabel": "Data Sharing and Transfers"
+        },
+        {
+          "id": "data-security",
+          "title": "6. Data Security",
+          "html": "<p>We deploy administrative, technical, and physical measures such as encryption in transit and at rest, role-based access controls, infrastructure hardening, monitoring, backups, and periodic reviews to limit access to authorised personnel only.</p><p>No system is 100% secure, but we continually invest in improving our posture and respond quickly to incidents.</p><p><strong class=\"text-foreground\">Breach notification.</strong> On becoming aware of a personal data breach, we intimate each affected Data Principal without delay — describing the nature, extent and timing of the breach, its likely consequences, the mitigation we are applying, the steps they can take, and where to reach us — and we report it to the Data Protection Board of India, followed by a detailed report within 72 hours as Rule 7 of the DPDP Rules, 2025 requires. Where we act as an Institution's Data Processor, we notify the Institution without delay so it can meet its own obligation.</p><p>A summary of our security practices is available at <a href=\"https://squarecampus.com/security/\" class=\"text-foreground\">https://squarecampus.com/security</a>.</p>",
+          "navigationLabel": "Data Security"
+        },
+        {
+          "id": "data-retention",
+          "title": "7. Data Retention",
+          "html": "<p>Data is retained during active use to provide the Service. After an Institution’s subscription ends, we may keep data for a limited period for legal, accounting, or backup reasons, after which it will be deleted or anonymised.</p>",
+          "navigationLabel": "Data Retention"
+        },
+        {
+          "id": "rights",
+          "title": "8. Your Rights as a Data Principal",
+          "html": "<p>Where Fairhelm Systems (OPC) Private Limited is the Data Fiduciary, the DPDP Act gives you the following rights. Requests may be sent to the grievance contact in section 11.</p><ul class=\"list-disc space-y-2 pl-5\"><li><strong>Access</strong> — a summary of the personal data being processed, the processing activities, and the identities of other Data Fiduciaries and Processors it has been shared with (section 11).</li><li><strong>Correction and erasure</strong> — correction, completion, updating, and erasure of your personal data (section 12).</li><li><strong>Grievance redressal</strong> — a readily available means of raising a complaint with us, answered within the period prescribed under the Act, before approaching the Data Protection Board of India (section 13).</li><li><strong>Nomination</strong> — the right to nominate another individual to exercise these rights on your behalf in the event of your death or incapacity (section 14).</li><li><strong>Withdrawal of consent</strong> — where processing rests on your consent, you may withdraw it at any time, with the same ease as it was given. Withdrawal stops further processing for that purpose; it does not undo lawful processing already carried out, nor affect records we must retain by law.</li></ul><p>Where your data sits inside an Institution's deployment, that Institution is the Data Fiduciary. Raise the request with the Institution first; we will support it as the Institution's Data Processor. We may need to verify your identity, and your authority where you act for someone else, before acting on a request.</p>",
+          "navigationLabel": "Your Rights as a Data Principal"
+        },
+        {
+          "id": "cookies",
+          "title": "9. Cookies and Similar Technologies",
+          "html": "<p>Cookies and similar identifiers support authentication, session persistence, and preference storage. We do not use third-party advertising cookies in the core academic and administrative areas.</p>",
+          "navigationLabel": "Cookies and Similar Technologies"
+        },
+        {
+          "id": "children",
+          "title": "10. Children’s and Student Data",
+          "html": "<p>Student records are the most sensitive data SquareCampus touches, and a large share of them concern children — anyone under eighteen. Section 9 of the DPDP Act requires verifiable consent from a parent or lawful guardian before a child's personal data is processed, and prohibits tracking, behavioural monitoring, and targeted advertising directed at children. Rule 10 of the DPDP Rules, 2025 adds that the consent must be genuinely verifiable: due diligence is required to confirm that the person giving it is an identifiable adult entitled to act for the child.</p><p>SquareCampus is provided to Institutions, not directly to children. The Institution holds the relationship with students and guardians and is responsible for obtaining and recording verifiable parental consent, for managing access on behalf of students, and for its own compliance regarding minors. Our role is to process what the Institution instructs and to make that instruction boundary enforceable in the product.</p><ul class=\"list-disc space-y-2 pl-5\"><li>We do not sell student, child, or guardian data, or share it for advertising.</li><li>We do not track, profile, or behaviourally monitor children, and run no advertising technology in the product.</li><li>We do not use student or child data to train AI models. The AEGIS posture is read-only, role-scoped, and audit-backed.</li><li>We undertake no processing that is likely to have a detrimental effect on the well-being of a child.</li></ul>",
+          "navigationLabel": "Children’s and Student Data"
+        },
+        {
+          "id": "grievance",
+          "title": "11. Grievance Redressal",
+          "html": "<p>Complaints, rights requests, and questions about this Policy should be addressed to the Grievance Officer, Fairhelm Systems (OPC) Private Limited, at <a href=\"mailto:privacy@squarecampus.com\">privacy@squarecampus.com</a>, or by post to the registered office at No. 33, 4th Floor, 1st Main, Road 3, Ganganagar, R T Nagar, Bangalore North, Bangalore – 560032, Karnataka, India.</p><p>We acknowledge receipt and respond within ninety days, the period prescribed under the DPDP Rules, 2025. Most requests are answered well inside it. If a grievance is not resolved to your satisfaction, you may complain to the Data Protection Board of India directly — no lawyer and no fee are required.</p>",
+          "navigationLabel": "Grievance Redressal"
+        },
+        {
+          "id": "changes",
+          "title": "12. Changes to This Policy",
+          "html": "<p>We may update this Privacy Policy occasionally. Updated versions will appear on this page, and we may provide additional notices when appropriate.</p><p>The DPDP Rules, 2025 were notified on 14 November 2025 and take effect in phases, with full compliance required by 13 May 2027. We are building toward that date rather than waiting for it, and this Policy will be revised as consent, notice, and rights machinery lands in the product.</p><p>Continued use after changes means acceptance of the revised policy.</p>",
+          "navigationLabel": "Changes to This Policy"
+        },
+        {
+          "id": "contact",
+          "title": "13. Contact Us",
+          "html": "<p>If you have questions or requests, contact:</p><p><strong>FAIRHELM SYSTEMS (OPC) PRIVATE LIMITED</strong><br>Registered office: No. 33, 4th Floor, 1st Main, Road 3, Ganganagar, R T Nagar, Bangalore North, Bangalore – 560032, Karnataka, India<br>CIN: U62099KA2026OPC225579<br>GSTIN: 29AAHCF1819L1ZA<br>Email: <a href=\"mailto:privacy@squarecampus.com\">privacy@squarecampus.com</a><br>Website: <a href=\"https://squarecampus.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://squarecampus.com</a></p>",
+          "navigationLabel": "Contact Us"
+        },
+        {
+          "id": "legal-disclaimer",
+          "title": "",
+          "html": "<p class=\"text-xs text-muted-foreground\">This Privacy Policy is intended for transparency and does not constitute legal advice. Institutions should consult legal counsel to confirm compliance with applicable privacy laws.</p>"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "The rules, rights, and responsibilities that govern your access to SquareCampus.",
+      "canonicalUrl": "https://legal.fairhelmsystems.com/squarecampus/terms-of-service/",
+      "sections": [
+        {
+          "id": "company-entity",
+          "title": "1. Company & Contracting Entity",
+          "html": "<p>SquareCampus™ is a trademark (registration pending) of Fairhelm Systems (OPC) Private Limited. All services are provided by Fairhelm Systems (OPC) Private Limited, unless otherwise stated in a written agreement or order form.</p><p>References to \"SquareCampus\" in these Terms mean Fairhelm Systems (OPC) Private Limited.</p><address class=\"not-italic rounded-[1.2rem] border border-(--line) bg-(--surface) p-4 text-sm leading-6\"><span class=\"block font-medium text-foreground\">FAIRHELM SYSTEMS (OPC) PRIVATE LIMITED</span><span class=\"mt-1 block\">Registered office: No. 33, 4th Floor, 1st Main, Road 3, Ganganagar, R T Nagar, Bangalore North, Bangalore – 560032, Karnataka, India</span><span class=\"mt-1 block\">CIN: <span class=\"font-mono text-[0.8rem]\">U62099KA2026OPC225579</span> · Incorporated in India on 5 August 2026 under the Companies Act, 2013 · One Person Company</span><span class=\"mt-1 block\">GSTIN: <span class=\"font-mono text-[0.8rem]\">29AAHCF1819L1ZA</span> · Registered under the Goods and Services Tax, Karnataka</span><span class=\"mt-1 block\">Email: <a href=\"mailto:contact@squarecampus.com\" class=\"hover:text-foreground\">contact@squarecampus.com</a></span></address><p>These Terms form a binding agreement between Fairhelm Systems (OPC) Private Limited and the Institution or individual User accessing the Service. If you are accepting these Terms on behalf of an Institution, you confirm that you have the authority to bind that Institution.</p><ul class=\"list-disc space-y-2 pl-5\"><li>The Institution is the entity subscribing to SquareCampus (\"Institution\"); and</li><li>Individuals who access the Service under that Institution's account are considered \"Users.\"</li></ul>",
+          "navigationLabel": "Company & Contracting Entity"
+        },
+        {
+          "id": "service-description",
+          "title": "2. Description of the Service",
+          "html": "<p>SquareCampus is a SaaS platform for schools, colleges, and other educational institutions to manage admissions, attendance, grades, examinations, fees, communication, and related academic workflows.</p><p>We may evolve, update, or retire features from time to time to keep the Service modern and secure.</p>",
+          "navigationLabel": "Description of the Service"
+        },
+        {
+          "id": "account-security",
+          "title": "3. Account Registration and Security",
+          "html": "<p class=\"font-medium text-foreground\">3.1 General Requirements</p><p>Institutions and Users agree to:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Provide accurate and complete registration information;</li><li>Keep login credentials confidential and not share them beyond authorised personnel;</li><li>Ensure only authorised staff, teachers, and students have access to their designated accounts;</li><li>Promptly notify SquareCampus of unauthorised access, misuse, or security incidents.</li></ul><div class=\"mt-6 rounded-lg border border-red-500/30 bg-red-500/10 p-4\"><p class=\"font-medium text-red-800 dark:text-red-200\">3.2 Credential Sharing Prohibition</p><p class=\"mt-2 text-sm\">Institutions and Users expressly agree that login credentials, API keys, access tokens, and any other authentication mechanisms are strictly confidential and may not be shared with:</p><ul class=\"mt-2 list-disc space-y-1 pl-5 text-sm\"><li>Any individual or entity outside the Institution's authorised personnel roster;</li><li>Competitors, as defined in Section 19 of these Terms;</li><li>Third-party consultants, vendors, or service providers without SquareCampus's prior written consent;</li><li>Any person or entity for purposes of competitive intelligence, reverse engineering, or product evaluation.</li></ul></div><p class=\"mt-6 font-medium text-foreground\">3.3 Liability for Credential Misuse</p><p>The Institution shall be fully liable for any and all activities conducted through credentials issued to the Institution, regardless of whether such activities were authorised. This includes, without limitation:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Data access, export, or manipulation;</li><li>Feature usage and API calls;</li><li>System configuration changes;</li><li>Any violations of these Terms committed using Institution credentials.</li></ul><p class=\"mt-6 font-medium text-foreground\">3.4 Audit Rights</p><p>SquareCampus reserves the right to audit credential usage patterns and may require Institutions to provide documentation regarding credential distribution and access controls upon reasonable notice. Failure to comply with audit requests may result in immediate suspension of service.</p><p class=\"mt-4 text-sm text-muted-foreground\">Institutions are responsible for all activity within their organisation account. Violations of this Section may result in immediate termination and legal action as described in Section 19.</p>",
+          "navigationLabel": "Account Registration and Security"
+        },
+        {
+          "id": "license",
+          "title": "4. License and Permitted Use",
+          "html": "<p>Subject to these Terms and any applicable order form, SquareCampus grants Institutions a limited, revocable, non-exclusive, non-transferable, and non-sublicensable license to use the Service for internal educational and administrative purposes.</p><p>Unless expressly permitted, you must not:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Copy, modify, or derive works from the Service;</li><li>Reverse engineer or attempt to extract the platform source code;</li><li>Resell or re-distribute the Service outside your Institution;</li><li>Use the Service to build a competing product;</li><li>Circumvent usage limits, quotas, or licensing restrictions; or</li><li>Use the Service in violation of applicable laws or regulations.</li></ul>",
+          "navigationLabel": "License and Permitted Use"
+        },
+        {
+          "id": "billing",
+          "title": "5. Subscription, Fees, and Billing",
+          "html": "<p>Access is provided on a subscription basis. Pricing, billing frequency, and modules are defined in the relevant proposal or order form.</p><p>Unless otherwise agreed:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Fees are payable in advance per billing period;</li><li>Add-ons or overages may be billed pro-rata for the remaining period;</li><li>Fees are non-refundable except where required by law or stated in an order form.</li></ul><p>Non-payment may result in suspension or termination of Service access.</p>",
+          "navigationLabel": "Subscription, Fees, and Billing"
+        },
+        {
+          "id": "data-ownership",
+          "title": "6. Data Ownership and Rights",
+          "html": "<p>Subject to these Terms:</p><ul class=\"list-disc space-y-2 pl-5\"><li>The Institution retains ownership of data uploaded or generated through the Service;</li><li>SquareCampus retains rights over the platform, metadata, usage stats, and anonymised data.</li></ul><p>Institutions may request export of their data during an active subscription in a reasonable format, subject to feasibility and applicable fees.</p>",
+          "navigationLabel": "Data Ownership and Rights"
+        },
+        {
+          "id": "privacy-data",
+          "title": "7. Privacy and Data Protection",
+          "html": "<p>SquareCampus processes personal data according to its Privacy Policy, which forms part of these Terms.</p><p>We strive to comply with applicable Indian data protection laws, including the IT Act, 2000, and the DPDP Act, 2023.</p><p>SquareCampus service data is hosted and processed in India. We do not transfer or store customer data outside India.</p><p>We pledge to keep data within the borders of India, no excuses or compromises.</p><p>Institutions remain responsible for obtaining any consents required for processing student, staff, or parent data.</p>",
+          "navigationLabel": "Privacy and Data Protection"
+        },
+        {
+          "id": "security-reference",
+          "title": "8. Security & Data Protection Reference",
+          "html": "<p>A summary of our security program, data residency, encryption, and audit practices is available at <a href=\"https://squarecampus.com/security/\" class=\"text-foreground\">https://squarecampus.com/security</a>.</p>",
+          "navigationLabel": "Security & Data Protection Reference"
+        },
+        {
+          "id": "availability",
+          "title": "9. Service Availability and Maintenance",
+          "html": "<p>We aim to offer a reliable Service but cannot guarantee uninterrupted or error-free operation.</p><p>Scheduled maintenance or emergency work may temporarily affect availability; we will provide notice where possible.</p>",
+          "navigationLabel": "Service Availability and Maintenance"
+        },
+        {
+          "id": "prohibited-conduct",
+          "title": "10. Prohibited Conduct",
+          "html": "<p>You must not use the Service to store, share, or process content that is unlawful, harmful, defamatory, obscene, or otherwise objectionable.</p><ul class=\"list-disc space-y-2 pl-5\"><li>Infringe third-party rights, including IP or privacy rights;</li><li>Introduce malware, viruses, or any malicious payload;</li><li>Engage in conduct described in the Acceptable Use Policy.</li></ul>",
+          "navigationLabel": "Prohibited Conduct"
+        },
+        {
+          "id": "termination",
+          "title": "11. Term, Suspension, and Termination",
+          "html": "<p>These Terms remain effective until the Institution's subscription ends or the Agreement is terminated.</p><p>SquareCampus may suspend or terminate if:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Fees are unpaid;</li><li>Material breach occurs and is uncured;</li><li>Law or government order requires suspension;</li><li>Usage poses security, legal, or operational risk to others.</li></ul><p>After termination, access ceases and data may be retained for a limited period for legal, accounting, or backup reasons, after which it will be deleted or anonymised.</p>",
+          "navigationLabel": "Term, Suspension, and Termination"
+        },
+        {
+          "id": "intellectual-property",
+          "title": "12. Intellectual Property",
+          "html": "<p>All rights to the Service, interfaces, documentation, and technology belong to SquareCampus or its licensors.</p><p>Nothing in these Terms grants you ownership of SquareCampus trademarks, logos, or software.</p>",
+          "navigationLabel": "Intellectual Property"
+        },
+        {
+          "id": "disclaimers",
+          "title": "13. Disclaimers",
+          "html": "<p>The Service is provided \"as is\" and \"as available.\"</p><p>To the fullest extent permitted by law, SquareCampus disclaims express, implied, statutory, and other warranties, including merchantability and fitness for a particular purpose.</p>",
+          "navigationLabel": "Disclaimers"
+        },
+        {
+          "id": "liability",
+          "title": "14. Limitation of Liability",
+          "html": "<p>SquareCampus shall not be liable for indirect, incidental, consequential, special, exemplary, or punitive damages, or loss of profits, data, or goodwill arising out of the Service.</p><p>Where liability cannot be excluded, our aggregate liability is capped at the subscription fees paid in the preceding twelve months.</p>",
+          "navigationLabel": "Limitation of Liability"
+        },
+        {
+          "id": "changes",
+          "title": "15. Changes to the Terms",
+          "html": "<p>We may update these Terms from time to time, and we may provide additional notice of material changes.</p><p>Your continued use after changes means you accept the revised Terms.</p>",
+          "navigationLabel": "Changes to the Terms"
+        },
+        {
+          "id": "governing-law",
+          "title": "16. Governing Law and Jurisdiction",
+          "html": "<p>These Terms are governed by Indian law, without regard to conflict of law rules.</p><p>Subject to mandatory requirements, the courts in Bengaluru, Karnataka, India have exclusive jurisdiction over disputes.</p>",
+          "navigationLabel": "Governing Law and Jurisdiction"
+        },
+        {
+          "id": "indemnification",
+          "title": "17. Indemnification",
+          "html": "<p class=\"font-medium text-foreground\">17.1 Institution Indemnification</p><p>The Institution shall defend, indemnify, and hold harmless SquareCampus, Fairhelm Systems (OPC) Private Limited, and their respective officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from or related to:</p><ul class=\"list-disc space-y-2 pl-5\"><li>The Institution's breach of these Terms, including but not limited to the credential sharing prohibitions in Section 3 and competitor access prohibitions in Section 19;</li><li>The Institution's violation of applicable laws or regulations;</li><li>Any third-party claims arising from the Institution's use of the Service;</li><li>The Institution's failure to maintain adequate security over credentials and access controls;</li><li>Any unauthorised access facilitated by the Institution's personnel, whether intentional or negligent.</li></ul><p class=\"mt-6 font-medium text-foreground\">17.2 SquareCampus Indemnification</p><p>SquareCampus shall defend, indemnify, and hold harmless the Institution from claims alleging that the Service infringes valid intellectual property rights, provided the Institution:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Promptly notifies SquareCampus of such claims;</li><li>Provides reasonable cooperation in the defence;</li><li>Allows SquareCampus sole control of the defence and settlement.</li></ul>",
+          "navigationLabel": "Indemnification"
+        },
+        {
+          "id": "security-incident",
+          "title": "18. Security Incident Response",
+          "html": "<p class=\"font-medium text-foreground\">18.1 Institution Response Obligations</p><p>Upon discovering or being notified of any security incident involving the Service, including but not limited to credential compromise, unauthorised access, or suspected competitor infiltration, the Institution shall:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Immediately notify SquareCampus at <a href=\"mailto:security@squarecampus.com\" class=\"text-foreground\">security@squarecampus.com</a></li><li>Preserve all relevant logs, communications, and evidence;</li><li>Cooperate fully with SquareCampus's investigation;</li><li>Implement any remedial measures requested by SquareCampus;</li><li>Provide written incident reports within 48 hours of discovery.</li></ul><p class=\"mt-6 font-medium text-foreground\">18.2 SquareCampus Response</p><p>SquareCampus shall respond to confirmed security incidents in accordance with our Security Policy and may:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Immediately suspend or revoke compromised credentials;</li><li>Implement additional security controls;</li><li>Require credential rotation across affected accounts;</li><li>Pursue legal remedies as appropriate.</li></ul><p class=\"mt-6 font-medium text-foreground\">18.3 Evidence Preservation</p><p>Both parties agree to preserve all evidence related to security incidents for a minimum of seven (7) years or as required by applicable law, whichever is longer. This includes access logs, communications, and any documentation related to the incident.</p>",
+          "navigationLabel": "Security Incident Response"
+        },
+        {
+          "id": "competitor-access",
+          "title": "19. Competitor Access Prohibition",
+          "html": "<div class=\"mb-6 rounded-lg border border-red-500/50 bg-red-500/10 p-4\"><p class=\"text-sm font-medium text-red-800 dark:text-red-200\">CRITICAL: This section establishes strict prohibitions on competitor access. Violations may result in suspension or termination and legal action as appropriate. See our <a href=\"/squarecampus/competitor-notice/\" class=\"underline\">Competitor Notice</a> for additional context and public notice.</p></div><p class=\"font-medium text-foreground\">19.1 Definitions</p><p>For purposes of this Section, \"Competitor\" means:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Any entity that develops, markets, sells, or distributes software or services that compete with SquareCampus, including but not limited to school management systems, student information systems, learning management systems, or educational administration platforms;</li><li>Any entity that has announced intent to enter such markets;</li><li>Any employee, contractor, agent, or representative of such entities;</li><li>Any entity conducting competitive intelligence or product evaluation on behalf of a competing entity.</li></ul><p class=\"mt-6 font-medium text-foreground\">19.2 Absolute Prohibition</p><p>The Institution expressly agrees that it shall not, under any circumstances:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Provide, share, or make available any credentials, access tokens, or authentication mechanisms to any Competitor;</li><li>Permit any Competitor to access the Service through the Institution's account;</li><li>Share screenshots, recordings, documentation, or any visual or textual representation of the Service with Competitors;</li><li>Describe Service features, functionality, pricing, or implementation details to Competitors;</li><li>Assist Competitors in any manner in understanding, replicating, or competing with the Service.</li></ul><p class=\"mt-6 font-medium text-foreground\">19.3 Mandatory Disclosure</p><p>The Institution shall immediately notify SquareCampus if:</p><ul class=\"list-disc space-y-2 pl-5\"><li>Any Competitor requests access to or information about the Service;</li><li>The Institution becomes aware of any current or former employee sharing credentials or information with Competitors;</li><li>The Institution is evaluating competing products and such evaluation may involve comparative analysis with SquareCampus.</li></ul><p class=\"mt-6 font-medium text-foreground\">19.4 Enhanced Liquidated Damages</p><p>In addition to all other remedies available at law or equity, the Institution acknowledges that violations of this Section cause substantial harm to SquareCampus that is difficult to quantify. Accordingly, the Institution agrees to pay liquidated damages as follows:</p><ul class=\"list-disc space-y-2 pl-5\"><li><strong>Credential Sharing with Competitor:</strong> ₹50,00,000 (Fifty Lakh Indian Rupees) per incident;</li><li><strong>Permitting Competitor Access:</strong> ₹75,00,000 (Seventy-Five Lakh Indian Rupees) per incident;</li><li><strong>Sharing Documentation or Screenshots:</strong> ₹25,00,000 (Twenty-Five Lakh Indian Rupees) per incident;</li><li><strong>Failure to Report Known Violations:</strong> ₹10,00,000 (Ten Lakh Indian Rupees) per incident.</li></ul><p class=\"mt-4 text-sm text-muted-foreground\">These amounts represent the parties' reasonable estimate of actual damages and are not intended as a penalty. SquareCampus reserves the right to pursue actual damages where they exceed these amounts.</p>",
+          "navigationLabel": "Competitor Access Prohibition"
+        },
+        {
+          "id": "contact",
+          "title": "20. Contact Information",
+          "html": "<p>If you have questions about these Terms, contact:</p><p><strong>Fairhelm Systems (OPC) Private Limited</strong><br>Email: <a href=\"mailto:support@squarecampus.com\">support@squarecampus.com</a><br>Security: <a href=\"mailto:security@squarecampus.com\">security@squarecampus.com</a><br>Legal: <a href=\"mailto:legal@squarecampus.com\">legal@squarecampus.com</a><br>Website: <a href=\"https://squarecampus.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://squarecampus.com</a></p>",
+          "navigationLabel": "Contact Information"
+        },
+        {
+          "id": "legal-disclaimer",
+          "title": "",
+          "html": "<p class=\"text-xs text-muted-foreground\">This Terms of Service page is for informational purposes and does not constitute legal advice. Institutions should consult counsel to ensure compliance with applicable laws.</p>"
+        }
+      ]
+    }
+  },
+  "links": {
+    "support": "https://squarecampus.com/faq/",
+    "reportIssue": "mailto:support@squarecampus.com"
+  }
+}

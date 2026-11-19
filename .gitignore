@@ -17,3 +17,5 @@ tools/quality/artifacts/
 
 .deploy/
 **/cdk.out/
+
+/apps/legal/public/squarecampus/legal-content.json
