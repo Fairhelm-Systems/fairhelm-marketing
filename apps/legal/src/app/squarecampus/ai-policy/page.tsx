@@ -94,8 +94,9 @@ export default function AIPolicyPage() {
             </p>
             <ul className="list-disc space-y-2 pl-5">
               <li>
-                We do not use customer data to train general-purpose AI models without explicit
-                written authorisation.
+                We do not train AI models on student or child data. For any other customer data,
+                model training requires a separate written agreement, a lawful basis and controls
+                for the approved purpose. Enabling an AI feature alone does not authorise training.
               </li>
               <li>We do not sell or share customer data for third-party AI training.</li>
             </ul>

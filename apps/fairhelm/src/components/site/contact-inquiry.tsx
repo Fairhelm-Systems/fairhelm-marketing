@@ -2,6 +2,7 @@
 
 import { ArrowLeft, Check, Clock3, LockKeyhole, Mail } from "lucide-react";
 import Link from "next/link";
+import { legalHref } from "@fairhelm/config/urls";
 import { useEffect, useRef, useState } from "react";
 import { Alert, AlertDescription, AlertTitle } from "@fairhelm/ui/components/alert";
 import { Badge } from "@fairhelm/ui/components/badge";
@@ -440,12 +441,13 @@ export function ContactInquiry() {
                           htmlFor="consent-marketing"
                           className="font-normal leading-6 text-muted-foreground"
                         >
-                          Send me occasional Fairhelm updates. Optional—we never share your details.
+                          Send me occasional Fairhelm updates. I can withdraw this choice at any time.
                         </FieldLabel>
                       </div>
                       <p className="text-xs leading-5 text-muted-foreground">
-                        By submitting, you agree that Fairhelm Systems may contact you about this
-                        inquiry.
+                        Fairhelm uses your contact details and message to answer this enquiry. See our{" "}
+                        <a className="underline" href={legalHref("fairhelm", "/privacy/")}>privacy notice</a>
+                        {" "}for how the form is protected and how to withdraw consent.
                       </p>
                       {endpoint ? (
                         <Alert className="border-primary/20 bg-primary/5">

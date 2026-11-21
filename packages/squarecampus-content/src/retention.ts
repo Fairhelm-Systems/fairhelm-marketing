@@ -262,7 +262,7 @@ export const retentionPage = {
   exit: {
     heading: "Contract end, export and deletion",
     paragraphs: [
-      "The Data Processing Addendum sets what happens when a subscription ends or on written request: SquareCampus deletes or anonymises personal data processed on the institution's behalf, or returns it in a reasonable format where export functionality is agreed. It may retain data where required by law, for dispute resolution or for backup purposes, after which the data is deleted or anonymised.",
+      "The institution elects secure return followed by deletion, or deletion without return, under the Data Processing Addendum. The agreed exit schedule covers format, timing, restricted backups and any applicable legal hold. SquareCampus confirms completion and identifies copies that must still be preserved.",
       "Export scope, available formats, timing, responsibilities and any charges are agreed in the order form. We do not publish a standard export format or turnaround time, and an institution-wide export is not a self-service feature today.",
       "Ending a contract, changing plan or exceeding a storage allowance does not change what the law requires an institution to keep.",
     ],
@@ -307,7 +307,7 @@ export const retentionPage = {
     heading: "Where things stand",
     confirmed: [
       "The institution is the Data Fiduciary for its records; SquareCampus processes them on its instructions under the Data Processing Addendum.",
-      "Contract-end return, deletion and anonymisation follow the Data Processing Addendum.",
+      "Contract-end return and deletion follow the Data Processing Addendum.",
       "Export scope, formats, timing and charges are agreed in the order form.",
       "Website enquiries are stored, passed to our customer-relationship system and notified to our team by email.",
       "Preservation and data requests are made in writing to the contacts on this page and assessed individually.",
@@ -347,7 +347,7 @@ export const retentionReuse = {
   faqCompliance:
     "SquareCampus is designed with privacy-by-default principles and to support institutions' obligations under the IT Act 2000, the DPDP Act and education-sector requirements. Retention, preservation and export are handled as set out on our Data Retention page, which separates what is available today from what is still being built.",
   faqExit:
-    "Your institution owns its data. What happens at the end of a contract is set by your agreement and the Data Processing Addendum: data is returned where export is agreed, or deleted or anonymised, subject to what the law requires to be kept. Export scope, formats, timing and any charges are agreed in the order form.",
+    "Your institution owns its data. What happens at the end of a contract is set by your agreement and the Data Processing Addendum: the institution chooses return followed by deletion or deletion without return, subject to documented preservation duties. Export scope, formats, timing and any charges are agreed in the order form.",
   exitShort:
     "Export and deletion at the end of a contract are agreed in writing in your order form and the Data Processing Addendum.",
 } as const;

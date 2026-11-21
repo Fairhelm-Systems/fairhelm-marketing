@@ -4,15 +4,17 @@ import { LegalShell } from "@/components/legal/legal-shell";
 import { PageSchema } from "@/components/site/page-schema";
 
 const schemaDescriptions = {
+  dpa: "How Fairhelm processes institutional records, including instructions, safeguards, incidents, providers and exit arrangements.",
   privacy:
     "How SquareCampus collects, processes, stores and returns institutional and personal data, and the rights available to data principals.",
   terms:
     "The terms governing use of SquareCampus by institutions, including account security, competitor access restrictions and the order form that governs commercial terms.",
 };
 
-export function ContentDocument({ kind }: { kind: "privacy" | "terms" }) {
+export function ContentDocument({ kind }: { kind: keyof typeof content.documents }) {
   const document = content.documents[kind];
-  const slug = kind === "privacy" ? "privacy-policy" : "terms-of-service";
+  const path = new URL(document.canonicalUrl).pathname;
+  const current = path.slice("/squarecampus".length);
   const sections = document.sections.filter((section) => section.id !== "legal-disclaimer");
   const disclaimer = document.sections.find((section) => section.id === "legal-disclaimer");
   return (
@@ -20,11 +22,11 @@ export function ContentDocument({ kind }: { kind: "privacy" | "terms" }) {
       <PageSchema
         name={document.title}
         description={schemaDescriptions[kind]}
-        path={`/squarecampus/${slug}`}
+        path={path.replace(/\/$/, "")}
       />
       <LegalShell
         title={document.title}
-        current={`/${slug}/`}
+        current={current}
         description={document.description}
         contents={sections.map((section) => ({
           label: section.navigationLabel ?? section.title,
@@ -46,8 +48,12 @@ export function ContentDocument({ kind }: { kind: "privacy" | "terms" }) {
             </section>
           ))}
         </div>
-        <Separator className="mt-10" />
-        {disclaimer && <div dangerouslySetInnerHTML={{ __html: disclaimer.html }} />}
+        {disclaimer && (
+          <>
+            <Separator className="mt-10" />
+            <div dangerouslySetInnerHTML={{ __html: disclaimer.html }} />
+          </>
+        )}
       </LegalShell>
     </>
   );

@@ -100,8 +100,8 @@ export default function AcceptableUsePage() {
                 4.2 Competitive Intelligence and Industrial Espionage
               </p>
               <p className="mt-3 text-sm">
-                The following activities are strictly prohibited and constitute grounds for
-                immediate termination and legal action:
+                The following activities are prohibited. Section 11 of the Terms governs suspension
+                and termination.
               </p>
               <ul className="mt-3 list-disc space-y-2 pl-5 text-sm">
                 <li>
@@ -176,8 +176,9 @@ export default function AcceptableUsePage() {
                 to assist competing entities.
               </li>
               <li>
-                Discussing, describing, or otherwise communicating Service features, pricing, or
-                capabilities to competitors or their representatives.
+                Disclosing non-public product information for competitive replication. Ordinary
+                procurement comparisons using public information, confidential professional advice
+                and legally required disclosures are permitted under the Terms.
               </li>
               <li>
                 Participating in "demo sharing" arrangements where access is provided to parties
@@ -192,7 +193,7 @@ export default function AcceptableUsePage() {
             <p className="mt-6 font-medium text-foreground">4.5 Enforcement</p>
             <p>Violations of this Section 4 may result in:</p>
             <ul className="list-disc space-y-2 pl-5">
-              <li>Immediate suspension or termination of access without refund;</li>
+              <li>Proportionate restrictions or termination under the Terms and applicable refund policy;</li>
               <li>Pursuit of civil remedies including injunctive relief and damages;</li>
               <li>Referral to law enforcement authorities where criminal conduct is suspected;</li>
               <li>

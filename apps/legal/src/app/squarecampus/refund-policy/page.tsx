@@ -64,8 +64,8 @@ export default function RefundPolicyPage() {
                 current paid term.
               </li>
               <li>
-                Notice given at least thirty days before a renewal date stops that renewal. Notice
-                given later takes effect at the end of the following term.
+                A fixed-term pilot expires unless the Institution signs a new order. If a signed
+                subscription order provides for automatic renewal, its notice period applies.
               </li>
               <li>
                 Fees already paid for the current term are not refunded on cancellation for

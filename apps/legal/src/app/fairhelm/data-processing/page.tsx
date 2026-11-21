@@ -1,5 +1,5 @@
 import { siteConfig } from "@fairhelm/fairhelm-content/company";
-import { dataProcessingSections, legalUpdated } from "@fairhelm/fairhelm-content/legal";
+import { dataProcessingSections, legalNovemberRevisionDate } from "@fairhelm/fairhelm-content/legal";
 import { Hero } from "@/components/site/hero";
 import { JsonLd } from "@/components/site/json-ld";
 import { LegalDocument } from "@/components/site/legal-document";
@@ -33,7 +33,7 @@ export default function DataProcessingPage() {
         statusTitle="Public overview — not a signed DPA"
         statusDescription={`${siteConfig.legalName} is incorporated in India as a One Person Company. Binding roles, instructions, controls, locations, providers, assistance, and retention must be defined for the specific engagement.`}
         sections={dataProcessingSections}
-        lastUpdated={legalUpdated}
+        lastUpdated={legalNovemberRevisionDate}
       />
     </main>
   );

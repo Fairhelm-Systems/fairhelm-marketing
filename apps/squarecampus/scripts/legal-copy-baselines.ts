@@ -7,7 +7,7 @@ import type { FullContextDocument } from "../src/content/llms-full";
 // never regenerate the baseline automatically during a build.
 export const publishedLegalBaselines: Readonly<Record<string, string>> = {
   "https://squarecampus.com/terms-of-service/":
-    "7c1c67313e9da3f33cd9ff77f136401e373f92fdd900f45facca4469683add12",
+    "9379bd63cf6bd47ee499f7d375b0acf70e5433ab033eada783beccac14280242",
 };
 
 export function publishedLegalCopyStatus(

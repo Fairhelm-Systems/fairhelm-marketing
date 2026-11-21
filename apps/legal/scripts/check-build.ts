@@ -60,6 +60,6 @@ const terms = readFileSync(resolve(out, "squarecampus/terms-of-service/index.md"
   .replace(" | Fairhelm Legal", " | SquareCampus");
 assert.equal(
   createHash("sha256").update(terms).digest("hex"),
-  "7c1c67313e9da3f33cd9ff77f136401e373f92fdd900f45facca4469683add12",
+  "9379bd63cf6bd47ee499f7d375b0acf70e5433ab033eada783beccac14280242",
   "Published Terms wording changed: legal review is required before updating the existing baseline"
 );

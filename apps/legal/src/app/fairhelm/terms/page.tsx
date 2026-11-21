@@ -1,5 +1,5 @@
 import { siteConfig } from "@fairhelm/fairhelm-content/company";
-import { legalUpdated, termsSections } from "@fairhelm/fairhelm-content/legal";
+import { legalNovemberRevisionDate, termsSections } from "@fairhelm/fairhelm-content/legal";
 import { Hero } from "@/components/site/hero";
 import { JsonLd } from "@/components/site/json-ld";
 import { LegalDocument } from "@/components/site/legal-document";
@@ -33,7 +33,7 @@ export default function TermsPage() {
         statusTitle="Publisher of this website"
         statusDescription={`${siteConfig.legalNameDisplay} (CIN ${siteConfig.cin}), incorporated in India on ${siteConfig.incorporationDateDisplay} under the Companies Act, 2013, registered office ${siteConfig.address.full}.`}
         sections={termsSections}
-        lastUpdated={legalUpdated}
+        lastUpdated={legalNovemberRevisionDate}
       />
     </main>
   );

@@ -1,5 +1,5 @@
 import { siteConfig } from "@fairhelm/fairhelm-content/company";
-import { legalUpdated, refundSections } from "@fairhelm/fairhelm-content/legal";
+import { legalNovemberRevisionDate, refundSections } from "@fairhelm/fairhelm-content/legal";
 import { Hero } from "@/components/site/hero";
 import { JsonLd } from "@/components/site/json-ld";
 import { LegalDocument } from "@/components/site/legal-document";
@@ -33,7 +33,7 @@ export default function RefundPolicyPage() {
         statusTitle="Default position"
         statusDescription={`${siteConfig.legalNameDisplay} (CIN ${siteConfig.cin}, GSTIN ${siteConfig.gstin}), registered office ${siteConfig.address.full}. Fairhelm sells to institutions under signed agreements; where an order form or statement of work sets different terms, the signed document controls.`}
         sections={refundSections}
-        lastUpdated={legalUpdated}
+        lastUpdated={legalNovemberRevisionDate}
       />
     </main>
   );

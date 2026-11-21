@@ -1,5 +1,5 @@
 import { siteConfig } from "@fairhelm/fairhelm-content/company";
-import { aiPolicySections, legalUpdated } from "@fairhelm/fairhelm-content/legal";
+import { aiPolicySections, legalNovemberRevisionDate } from "@fairhelm/fairhelm-content/legal";
 import { Hero } from "@/components/site/hero";
 import { JsonLd } from "@/components/site/json-ld";
 import { LegalDocument } from "@/components/site/legal-document";
@@ -33,7 +33,7 @@ export default function AiPolicyPage() {
         statusTitle="Interim policy status"
         statusDescription={`${siteConfig.legalName} is incorporated in India as a One Person Company. This posture describes product direction and design constraints; contract-specific AI terms must match the system actually delivered.`}
         sections={aiPolicySections}
-        lastUpdated={legalUpdated}
+        lastUpdated={legalNovemberRevisionDate}
       />
     </main>
   );
